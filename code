@@ -1,0 +1,4 @@
+# 02_medieval.mcfunction
+title @a title {"text":"Medieval Age!","color":"dark_purple"}
+tp @a 120 64 300
+playsound minecraft:block.bell.use player @a
